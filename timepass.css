@@ -1,0 +1,380 @@
+*{
+    background-color:skyblue;
+ 
+}
+:hover .btn{
+    background-color: red;
+}
+.box1{
+    background-color: green;
+    width: 20%;
+    height: 30%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+   position: relative;
+   margin-bottom: 20px;
+   display: inline-block;
+   align-self: left;
+   left: 15%;
+   cursor: pointer; 
+}
+.sound1{
+    width: 50%;
+    height: 68%;
+    background: url('gathividi.jpg') no-repeat;
+    background-size: 100%;
+    cursor: pointer;
+}
+.player1{
+      padding-top: 4px;
+      background-color: green;
+      width: 100%;
+}
+.m1{
+    background-color: green;
+    width: 100%;
+
+}
+.box2{
+    background-color: rgb(236, 84, 18);
+    width: 20%;
+    height: 30%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+   position: relative;
+   margin-bottom: 20px;
+   display: inline-block;
+   align-self: left;
+   left: 15%;
+   cursor: pointer;
+}
+.sound2{
+    width: 50%;
+    height: 68%;
+    background: url('nachmerirani.jpeg') no-repeat;
+    background-size: 100%;
+    cursor: pointer;
+}
+.player2{
+    padding-top: 4px;
+    background-color: rgb(236, 84, 18);
+    width: 100%;
+}
+.m2{
+    background-color: rgb(236, 84, 18);
+}
+.box3{
+    background-color: green;
+    width: 20%;
+    height: 30%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+    position: relative;
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: right;
+    left: 15%;
+    top: 20%;
+    cursor: pointer;
+}
+.sound3{
+    width: 50%;
+    height: 68%;
+    background: url('Shiddat.jpeg') no-repeat;
+    background-size: 100%;
+    cursor: pointer;
+}
+.player3{
+    padding-top: 4px;
+    background-color: green;
+    width:100%;
+}
+.m3{
+    background-color: green;
+}
+.main{
+   align-self: center;
+}
+/* hello */
+.box4{
+    background-color: green;
+    width: 20%;
+    height: 30%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+   position: relative;
+   margin-bottom: 20px;
+   display: inline-block;
+   align-self: left;
+   left: 15%;
+   cursor: pointer;
+}
+.sound4{
+    width: 50%;
+    height: 68%;
+    background: url('Tanhaai.jpeg') no-repeat;
+    background-size: 100%;
+    cursor: pointer;
+}
+.player4{
+    padding-top: 4px;
+    background-color: green;
+    width:100%;
+}
+.m4{
+    background-color: green;
+}
+.box5{
+    background-color: rgb(236, 84, 18);
+    width: 20%;
+    height: 30%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+    position: relative;
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: center;
+    left: 15%;
+    cursor: pointer;
+}
+.sound5{
+    width: 50%;
+    height: 68%;
+    background: url('BadMunda.jpeg') no-repeat;
+    background-size: 100%;
+    cursor: pointer;
+}
+.player5{
+    padding-top: 4px;
+    background-color: rgb(236, 84, 18);
+    width:100%;
+}
+.m5{
+    background-color: rgb(236, 84, 18);
+}
+.box6{
+    background-color: green;
+    width: 20%;
+    height: 30%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+    position: relative;
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: right;
+    left: 15%;
+    top: 20%;
+    cursor: pointer;
+}
+.sound6{
+    width: 50%;
+    height: 68%;
+    background: url('MujhePeene.jpeg') no-repeat;
+    background-size: 100%;
+    cursor: pointer;
+    
+}
+.player6{
+    padding-top: 4px;
+    background-color: green;
+    width:100%;
+}
+.m6{
+    background-color: green;
+}
+
+.main2{
+   align-self: center;
+}
+/* hello */
+.box7{
+    background-color: green;
+    width: 20%;
+    height: 30%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+   position: relative;
+   margin-bottom: 20px;
+   display: inline-block;
+   align-self: left;
+   left: 15%;
+   cursor: pointer; 
+}
+.sound7{
+    width: 50%;
+    height: 68%;
+    background: url('AsalMein.jpeg') no-repeat;
+    background-size: 100%;
+    cursor: pointer;
+}
+.player7{
+    padding-top: 4px;
+    background-color: green;
+    width:100%;
+}
+.m7{
+    background-color: green;
+}
+.box8{
+    background-color: rgb(236, 84, 18);
+    width: 20%;
+    height: 30%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+    position: relative;
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: center;
+    left: 15%;
+    cursor: pointer;
+}
+.sound8{
+    width: 50%;
+    height: 68%;
+    background: url('TeraHua.jpeg') no-repeat;
+    background-size: 100%;
+    cursor: pointer;
+}
+.player8{
+    padding-top: 4px;
+    background-color: rgb(236, 84, 18);
+    width:100%;
+}
+.m8{
+    background-color: rgb(236, 84, 18);
+}
+
+.box9{
+    background-color: green;
+    width: 20%;
+    height: 30%;
+    border: 2px solid black;
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+    position: relative;
+    margin-bottom: 20px;
+    display: inline-block;
+    align-self: right;
+    left: 15%;
+    top: 20%;
+    cursor: pointer;
+}
+.sound9{
+    width: 50%;
+    height: 68%;
+    background: url('moonlight.jpeg') no-repeat;
+    background-size: 100%;
+    cursor: pointer;
+}
+.player9{
+    padding-top: 4px;
+    background-color: green;
+    width:100%;
+}
+.m9{
+    background-color: green;
+}
+
+.main3{
+   align-self: center;
+}
+/* navbar */
+
+
+.left{
+    
+    display: inline-block;
+    position: absolute;
+    left: 34px;
+    top: 20px;
+
+}
+.left img{
+    width: 36px 24px;
+    margin: 4px 6px;
+    align-content: center;
+}
+.left div{
+    text-align: center;
+    color: white;
+}
+.mid{
+    border: 2px solid skyblue;   
+    display: block;
+    width: 33%;
+    margin: 20px auto;
+    border-radius: 20px;
+    top: 18px;
+}
+.navbar{
+display: inline-block;
+
+
+}
+.navbar li{
+display: inline-block;
+list-style: none;
+font-size: 20px;
+border-radius: 20px;
+}
+.navbar li a {
+color: rgb(185, 15, 15);
+text-decoration: none;
+padding: 34px 23px;
+}
+.navbar li a:hover,.navbar li a.active {
+text-decoration: underline;
+color: rgb(202, 20, 20);
+}
+.right{
+  
+    display: inline-block;
+    position: absolute;
+    right: 34px;
+    top: 20px;
+}
+.btn{
+    margin: 0px 9px;
+    color: white;
+    background-color: black;
+    padding: 4px 14px;
+    border-radius: 80px;
+    font-size: 20px;
+    cursor: pointer;
+    align-content: center;
+}
+.btn:hover{
+    background-color: rgb(116, 65, 65);
+}
+.container{
+    border: 2px solid white;
+    margin: 2px 2px;
+    width: 33%;
+    color: white;
+    border-radius: 15px;
+    padding: 75px;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
